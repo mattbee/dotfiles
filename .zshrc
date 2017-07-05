@@ -97,6 +97,7 @@ source /usr/local/share/chruby/chruby.sh
 chruby 2.3
 
 export EDITOR='atom -w'
+export GIT_EDITOR='atom -wait'
 
 # Git Aliases
 alias g='git'
