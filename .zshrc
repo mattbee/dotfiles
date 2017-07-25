@@ -1,6 +1,7 @@
 
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$HOME/anaconda/bin:$PATH
+export PATH="/usr/local/opt/mysql@5.6/bin:$PATH"
 
 export NVM_DIR="$HOME/.nvm"
 # source $(brew --prefix nvm)/nvm.sh
